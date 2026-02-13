@@ -1,0 +1,168 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/Users/umutc/Desktop/CSE 331/Assignment/HW4
+T_opt
+!s110 1768237479
+V;NMd]Pg1@8mKAkWSjRkj22
+04 17 4 work seq_multiplier_tb fast 0
+=1-74563cc37503-696529a6-193-3598
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U6 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+vadd2N
+Z4 2add2N.v|down_counter.v|mul_control.v|mul_datapath.v|seq_multiplier.v|seq_multiplier_tb.v
+Z5 !s110 1768237470
+!i10b 1
+!s100 27zH:0L:<LFzjZ>_6]kCM1
+IX:;0:oQ5nDH:B0eaeX08H2
+R2
+w1768236173
+8add2N.v
+Fadd2N.v
+!i122 2
+L0 1 9
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z8 !s108 1768237470.000000
+Z9 !s107 seq_multiplier_tb.v|seq_multiplier.v|mul_datapath.v|mul_control.v|down_counter.v|add2N.v|
+Z10 !s90 -reportprogress|300|add2N.v|down_counter.v|mul_control.v|mul_datapath.v|seq_multiplier.v|seq_multiplier_tb.v|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+nadd2@n
+vdown_counter
+R4
+R5
+!i10b 1
+!s100 lFK]KAk]dcR9lZY246U5L3
+IVM?gY30;8nH]A;80eedBG1
+R2
+w1768236187
+8down_counter.v
+Fdown_counter.v
+!i122 2
+L0 1 26
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
+vmul_control
+R4
+R5
+!i10b 1
+!s100 LYifa?kSN?Rkj0mEWih[M1
+I_U30C42Xdb<Kc^GbgIYSl3
+R2
+w1768236226
+8mul_control.v
+Fmul_control.v
+!i122 2
+L0 1 112
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
+vmul_datapath
+R4
+R5
+!i10b 1
+!s100 ;iO@GE837eg5OgLDz0C?@3
+ICAY^:dh@I3Lm5FBFz8AML1
+R2
+w1768237340
+8mul_datapath.v
+Fmul_datapath.v
+!i122 2
+L0 1 115
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
+vseq_multiplier
+R4
+R5
+!i10b 1
+!s100 `i8Q[Oi]ol4d?>M8koS?h0
+I`U>lzahQH=jh:n]DmJ1MY0
+R2
+w1768236242
+8seq_multiplier.v
+Fseq_multiplier.v
+!i122 2
+L0 1 57
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
+vseq_multiplier_tb
+R4
+R5
+!i10b 1
+!s100 ]eA_@PL;IS>9:OkiUZ7261
+I;bPFXl[@Ygk6TF]_m1>k;2
+R2
+w1768236263
+8seq_multiplier_tb.v
+Fseq_multiplier_tb.v
+!i122 2
+L0 2 88
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
